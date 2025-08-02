@@ -3,3 +3,7 @@ langchain-community
 langchain-core
 langchain-groq
 python-dotenv
+bs4
+unstructured
+pypdb
+wikipedia
