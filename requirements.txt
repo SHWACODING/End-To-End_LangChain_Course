@@ -11,3 +11,5 @@ faiss-cpu
 fastapi
 langserve
 sse_starlette
+langgraph
+langchain-tavily
