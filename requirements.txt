@@ -8,3 +8,6 @@ unstructured
 pypdb
 wikipedia
 faiss-cpu
+fastapi
+langserve
+sse_starlette
